@@ -1,0 +1,30 @@
+<series>
+  <series name="ENC EZ-Rider II MAX (30 ft diesel)">
+    <range start="2600" end="2825" />
+  </series>
+  <series name="ENC EZ-Rider II BRT (32 ft diesel)">
+    <range start="2826" end="2829" />
+  </series>
+  <series name="Orion VII (30 ft diesel-electric hybrid)">
+    <range start="2830" end="2831" />
+  </series>
+  <series name="MCI D4000CT (40 ft diesel)">
+    <range start="6950" end="6979" />
+  </series>
+  <series name="ENC Axess BRT (40 ft diesel)">
+    <range start="6323" end="6575" />
+    <range start="6700" end="6786" />
+  </series>
+  <series name="ENC Axess BRT (40 ft CNG)">
+    <range start="15500" end="15520" />
+    <range start="17500" end="17571" />
+    <range start="18500" end="18510" />
+    <range start="20500" end="20505" />
+  </series>
+  <series name="New Flyer Xcelsior XD40 (40 ft diesel)">
+    <range start="20400" end="20485" />
+  </series>
+  <series name="ENC Axess BRT (30 ft diesel)">
+    <range start="20300" end="20399" />
+  </series>
+</series>

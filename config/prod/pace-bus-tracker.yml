@@ -1,0 +1,11 @@
+archive_table_name: pace-bus-tracker-app-9fd06383-47b4-3c2e-a030-6b50a2de56b9
+
+db:
+  username: pace_bus_tracker
+  password: !binary |-
+    AQICAHgT0GwMDmKWkKzqzeDFJyudmyTVWtw4mEML4BvZ39II5QHebPaOpFvJ73SpskR08HfTAAAAbjBsBgkqhkiG9w0BBwagXzBdAgEAMFgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMGNaRywg3NFlp6EsgAgEQgCsHOnWKKNfTkSPiEOCS1jgr7GZXYofbOQHGbhFhdsC+qHxOGZQ+0Erf1gNP
+  host: maths22-db-1.cjv0sh2ufcvu.us-east-2.rds.amazonaws.com
+  database: pace_bus_tracker
+
+s3:
+  bucket_name: pace-bus-history-tracker

@@ -1,0 +1,7 @@
+# AWS provides these in the runtime, so to keep package size down at least for now don't bundle them
+# boto3==1.19.2
+# botocore==1.22.2
+backports.zoneinfo
+dict2xml==1.7.1
+psycopg[binary]==3.0.14
+requests==2.28.0
