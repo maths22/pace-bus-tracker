@@ -4,4 +4,4 @@
 backports.zoneinfo
 dict2xml==1.7.1
 psycopg[binary]==3.0.14
-requests==2.28.0
+requests==2.31.0
