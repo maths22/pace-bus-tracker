@@ -9,7 +9,7 @@
     <range start="2830" end="2831" />
   </series>
   <series name="MCI D4000CT (40 ft diesel)">
-    <range start="6950" end="6979" />
+    <range start="6950" end="6989" />
   </series>
   <series name="ENC Axess BRT (40 ft diesel)">
     <range start="6323" end="6575" />
@@ -26,5 +26,6 @@
   </series>
   <series name="ENC Axess BRT (30 ft diesel)">
     <range start="20300" end="20399" />
+    <range start="22300" end="22344" />
   </series>
 </series>
